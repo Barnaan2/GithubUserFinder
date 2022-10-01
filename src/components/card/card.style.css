@@ -1,0 +1,40 @@
+.card{
+
+display: flex;
+align-items: flex-start;
+justify-content: flex-start;
+ 
+  overflow: hidden;
+  margin-right: 65%;
+
+  color:rgb(207, 213, 217);
+  font-weight: 100;
+  
+  font-size: 120%;
+ border-radius: 5%;
+ box-shadow: 0 0 10px rgb(12, 11, 11);
+ position: relative;
+ top: 10px;
+
+ left: 30%;
+ cursor: pointer;
+ 
+ 
+}
+.card:hover{
+    margin-right: 64.35%;   
+}
+.card img{
+    margin: 20px;
+    height: 70%;
+    width: 50%;
+    border-radius: 50%;
+}
+
+.user{
+   
+    margin-top: -20px;
+   
+}
+
+

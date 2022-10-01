@@ -1,0 +1,37 @@
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: rgb(39, 39, 33);
+    position: sticky;
+    top:0;
+    border-radius: 10px;
+    z-index: 10000000;
+
+}
+nav img{
+ height: 100px;
+ width: 100px;
+ 
+
+ 
+
+}
+nav p{
+    font-size:40px;
+    font-weight: 900;
+    margin-bottom: 10px;
+   
+}
+nav h3{
+    margin-left:5px ;
+    font-weight: 300;
+    margin-bottom:-25px ;
+    color:rgb(0, 157, 255);
+}
+ .git{
+    color: rgb(255, 204, 36);
+}
+.hub{
+    color:rgb(0, 157, 255);
+}

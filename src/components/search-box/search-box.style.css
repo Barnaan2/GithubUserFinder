@@ -1,0 +1,31 @@
+input{
+   
+  
+    font-size: large;
+    border-style: none;
+    outline: none;
+    border-radius: 5px;
+  margin: 50px 20px;
+    width: 70%;
+    height: 40%; 
+
+   
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.577);
+    border-bottom:double 3px rgb(6, 120, 251) ;
+   box-shadow: 0 0 10px rgb(36, 35, 35);
+    color: rgb(200, 191, 191);
+  
+}
+.searchBox{
+
+    margin-bottom: 5px ;
+    display: flexbox;
+    justify-content: center;
+  
+
+
+    
+   
+ 
+}
