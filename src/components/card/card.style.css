@@ -21,9 +21,7 @@ justify-content: center;
  
  
 }
-.card:hover{
-    margin-right: 64.35%;   
-}
+/*  */
 .card img{
     margin: 20px;
     height: 70%;
