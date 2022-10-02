@@ -2,10 +2,10 @@
 
 display: flex;
 align-items: flex-start;
-justify-content: flex-start;
+justify-content: center;
  
   overflow: hidden;
-  margin-right: 65%;
+  margin-right: 60%;
 
   color:rgb(207, 213, 217);
   font-weight: 100;
@@ -16,7 +16,7 @@ justify-content: flex-start;
  position: relative;
  top: 10px;
 
- left: 30%;
+ left: 25%;
  cursor: pointer;
  
  
