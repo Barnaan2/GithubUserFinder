@@ -1,4 +1,4 @@
-# Github user Finder(https://barnaan2.github.io/GithubUserFinder/)
+# Github user Finder   [see here ](https://barnaan2.github.io/GithubUserFinder/)
 
 A react app to find Github users By using there Github username
 
