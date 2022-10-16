@@ -7,7 +7,7 @@ class Card extends Component{
 <div className="card">
 
     <div key={id}>
-    <img className="skeleton-profile" src={avatar_url} alt="user image" />
+    <img className="skeleton-profile" src={avatar_url}  />
     
     <p className="user">User   :   {login}</p>
     <p className="fol">Followers :       {followers}</p>
