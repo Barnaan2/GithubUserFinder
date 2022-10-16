@@ -21,11 +21,13 @@ justify-content: center;
  
  
 }
-/*  */
+/*  this is the image loader so i wanna add sekletal loader */
+
+
 .card img{
     margin: 20px;
-    height: 70%;
-    width: 50%;
+    height: 100px;
+    width: 100px;
     border-radius: 50%;
 }
 
@@ -35,4 +37,48 @@ justify-content: center;
    
 }
 
+.skeleton{
+    animation: skeleton-loader 2s linear infinite alternate; 
+ }
+ @keyframes skeleton-loader {
+     
+     0%{
+        /* margin: 20px;
+        height: 70px;
+        width: 0%;*/
+        border-radius: 50%; 
+         background-color: gray;
+     }
+     100%{
+        /* margin: 20px;
+        height: 70%;
+        width: 100%;
+        border-radius: 50%;
+        */
+        border-radius: 50%; 
+         background-color: white;
+     }
+ }
 
+ .skeleton-profile{
+    
+    animation: skeleton-loading 2s linear infinite alternate; 
+ }
+ @keyframes skeleton-loading {
+      0%{
+        margin: 20px;
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+       
+         background-color: rgb(129, 125, 125);
+     }
+     100%{
+        margin: 20px;
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+ 
+         background-color: rgb(255, 255, 255);
+     }
+ }

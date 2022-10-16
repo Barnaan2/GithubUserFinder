@@ -35,3 +35,16 @@ nav h3{
 .hub{
     color:rgb(0, 157, 255);
 }
+/* skeleton loader to the github logo */
+/* .skeleton{
+   animation: skelton-loading 1s linear infinite alternate; 
+}
+@keyframes sekeleton-loading {
+    
+    0%{
+        background-color: gray;
+    }
+    100%{
+        background-color: white;
+    }
+} */
